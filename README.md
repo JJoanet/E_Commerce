@@ -8,16 +8,14 @@ Vygoth
 JeremyJoanet@Protonmail.com
 
 ## Description
-This app allows you to log in to the app, connect to a database, enter database information (schema, seeds), pull that database information, create / read / update / delete dynamically through an an application like Insomnia
+This app allows you to log in to the app, connect to a database, enter database information (schema, seeds), pull that database information, create / read / update / delete dynamically through an an application like Insomnia. This application was developed to help with my understanding of back-end data manipulation.
 
 ## Table of Contents
 - [Usage](#Usage)
 - [Installation](#Dependancies)
 - [Testing](#Testing)
 - [Credits](#Credits)
-- [License](#License)
 - [Contributing](#Contributing)
-- [License Information](#LicenseInfo)
 - [Screenshot](#Screenshot)
 
 ## Usage
@@ -36,4 +34,4 @@ Matt Reisdorf, Zach Duty, Michael Francisco.
 N/A
 
 ## Screenshot
-![Screenshot](./assets/img/screenshot.png)
+![Screenshot](./assets/img/E-Commerce.PNG)
